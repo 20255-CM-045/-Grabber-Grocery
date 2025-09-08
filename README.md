@@ -17,7 +17,7 @@
 
 Go try it out , up there!!
 
-> 💡 If the video doesn't autoplay, download and view it manually from [here](demo/Grabber.mp4).
+> 💡 If the video doesn't autoplay, download and view it manually from [here](https://drive.google.com/file/d/1Icfu2aIfwZyG0rk4zodxDz10bHHIc-YJ/view?usp=sharing).
 
 ---
 
